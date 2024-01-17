@@ -19,3 +19,6 @@
 # Symbolic Regression (Regression)
 - Utilizing the Python package "gplearn" to derive mathematical formulas for various time series datasets.
 
+# Smartwatch human activity detection (Classification)
+- Utilizing smartwatch sensor dataset to detect human activity
+- Implementing Logistic Regression, Decision Tree, RandomForest, Support Vector Machine, and XGBoost, RNN, CNN, LSTM
